@@ -5,4 +5,4 @@
 - 💬 How to reach me: wangkaiwd73@gmail.com
 
 Some of my web portfolio:
-- [Personal Website](https://www.zhihu.com/column/c_1134526392380248064)
+- [<img src="zhihu.png" height="25px" />](https://www.zhihu.com/column/c_1134526392380248064)&nbsp;
