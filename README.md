@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m a front end developer
-- 📫 I'm currently technology stack is `Vue.js`、`webpack`
+- 📫 I'm currently technology stack is `Vue.js`、`TypeScript`、`webpack`、`rollup`
 - 🌱 I’m currently learning `Node.js`
 - 💬 How to reach me: wangkaiwd73@gmail.com
 
